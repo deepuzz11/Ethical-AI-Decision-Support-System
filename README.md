@@ -4,6 +4,12 @@
 
 The Ethical AI Decision Support System aims to evaluate the ethical implications of AI algorithms used in various applications. This system focuses on detecting biases, ensuring fairness, and providing transparent decision-making processes.
 
+## Objective
+Develop a decision support system that evaluates the ethical implications of AI algorithms used in educational settings, focusing on fairness in grading and student evaluation.
+
+## Goals
+Ensure transparency, mitigate biases, and promote equitable educational outcomes through AI-driven decision-making.
+
 ## Steps and Components
 
 ### 1. Data Collection and Analysis
